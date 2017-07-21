@@ -1,5 +1,5 @@
 # AlfredWorkflowKSdiff
-## Simple Kaleidoscope &amp; Alfred Integration
+Simple Kaleidoscope &amp; Alfred Integration
 
 ## Required Setting
 * Alfred Powerpack
