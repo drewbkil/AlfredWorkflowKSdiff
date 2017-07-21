@@ -4,7 +4,6 @@ Simple Kaleidoscope &amp; Alfred Integration
 ## Required Setting
 * Alfred Powerpack
 * Kaleidoscope
-* Alfred Clipboard Hotkey set to cmd+alt+c
 
 
 ## Keywords
